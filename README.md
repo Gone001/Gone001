@@ -18,7 +18,7 @@
 ### 🧠 About Me
 
 - 🎓 **BCA Student** passionate about AI, full-stack development, and creative tech
-- 🔭 Currently building **Wishwa Mitr** — an AI-powered multilingual tutor for Indian school students (Classes 6–10), targeting UN SDG Goal 4
+- 🔭 Currently building **Wishwa Mitr** — an AI-powered multilingual tutor for Indian school students targeting UN SDG Goal 4
 - 🤖 Working on AI integration (Google Gemini), backend systems (FastAPI), and full-stack web apps (Next.js 14)
 - 🧠 **1 year of hands-on experience** in **Geni AI** — prompt engineering, workflow building & automation
 - 📊 Passionate about **Data Science**, **ML**, and making AI actually useful in real life
