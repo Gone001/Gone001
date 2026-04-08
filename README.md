@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Gopal 👋</h1>
 
 <p align="center">
-  <b>AI & Full-Stack Developer</b> · Building things that think and scale.
+  <b>Ai Ml & Full-Stack Developer</b> · Building things that think and scale.
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About Me
-
+- I am a BCA student in MIET jammu .
 - 🔭 Currently building **Wishwa Mitr** — an AI-powered multilingual tutor for Indian school students (Classes 6–10), targeting UN SDG Goal 4.
 - 🤖 Working on AI integration (Google Gemini), backend systems (FastAPI), and full-stack web apps (Next.js 14).
 - 📊 Passionate about **Data Science**, **ML**, and making AI actually useful in real life.
@@ -30,15 +30,9 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**Backend**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-**Frontend**
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
