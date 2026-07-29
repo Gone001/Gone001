@@ -17,9 +17,9 @@
 
 ### 🧠 About Me
 
-- 🔭 Building **Wishwa Mitr** — AI learning platform for Indian school students (UN SDG Goal 4), with **The Tech Visualizers**
-- 🛠️ Building **Axentra** — full-stack job marketplace
-- 🤖 Focused on GenAI, Agentic AI, RAG & Gemini API
+- 🔭 Building **VishwaMitra** — AI learning platform for Indian school students (UN SDG Goal 4), with **The Tech Visualizers**
+- 🛠️ Building **GetQuickJob** — full-stack job marketplace
+- 🤖 Focused on GenAI, Agentic AI, RAG & Automation
 - 🎬 Graphic Designer & Video Editor — DaVinci, Premiere Pro, After Effects, Canva
 
 ---
@@ -56,10 +56,10 @@
 
 ### 🚀 Featured Projects
 
-**🌍 Wishwa Mitr** — AI tutor for Indian students, multilingual, MCQ auto-generation, progress tracking
+**🌍 VishwaMitr** — AI tutor for Indian students, multilingual, MCQ auto-generation, progress tracking
 `Next.js` `FastAPI` `PostgreSQL` `Gemini API`
 
-**💼 Axentra** — Part-time job marketplace, live on Vercel
+**💼 GetQuickJb** — Part-time job marketplace, live on Vercel
 `Next.js` `React` `Supabase`
 
 **🏏 Cricket Score Prediction** — Regression model with full EDA pipeline
