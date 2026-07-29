@@ -1,28 +1,36 @@
-<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0014&height=60&text=⬡%20Python%20⬡%20Next.js%20⬡%20FastAPI%20⬡%20Gemini%20⬡%20OpenCV%20⬡%20YOLO%20⬡%20PostgreSQL%20⬡%20Docker%20⬡%20LangChain%20⬡%20TailwindCSS&fontColor=cc44ff&fontSize=14&fontAlign=50&animation=twinkling&fontAlignY=55&desc=⬡%20Java%20⬡%20C%20⬡%20TypeScript%20⬡%20Scikit-Learn%20⬡%20Pandas%20⬡%20DaVinci%20Resolve%20⬡%20Premiere%20Pro%20⬡%20Canva&descSize=13&descAlignY=85&descAlign=50&descColor=aa00ff&stroke=7700cc&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0014&height=200&section=header&text=Gopal&fontSize=60&fontColor=cc44ff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Agentic%20AI%20Enthusiast%20%7C%20Creative%20Technologist&descAlignY=55&descSize=18&descColor=aa00ff" width="100%"/>
 </p>
 
-<h1 align="center">Hey, I'm Gopal 👋</h1>
+<h3 align="center">🎓 Building @ The Tech Visualizers</h3>
+<p align="center"><i>Building AI-powered products, one project at a time.</i></p>
 
 <p align="center">
-  <b>BCA (Hons) Final-Year Student</b> · AI / Backend / Full-Stack Developer
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E57E0&center=true&vCenter=true&width=560&lines=BCA+Student+at+MIET+Jammu;Next.js+%C2%B7+FastAPI+%C2%B7+Gemini+%C2%B7+PostgreSQL;GenAI+%C2%B7+Agentic+AI+%C2%B7+ML+%C2%B7+Computer+Vision;DaVinci+%7C+Premiere+Pro+%7C+Canva" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-cc44ff?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
 
 ---
 
-### 🧠 About Me
+### 👤 About Me
 
-- 🎓 BCA (Hons), MIET Jammu — School of Computer Applications
-- 🔭 Building **Wishwa Mitr** (AI learning platform, SDG Goal 4) with team **The Tech Visualizers**
-- 🛠️ Building **Axentra** (gig marketplace)
-- 🤖 GenAI · Agentic AI · RAG · Gemini API
-- 📊 ML · Computer Vision (OpenCV, YOLO)
-- 🎬 Graphic design & video editing
+```yaml
+name: Gopal
+pronouns: He / Him
+location: Jammu, India
+education: BCA (Hons) — MIET Jammu, School of Computer Applications
+year: 4th Semester (Final Year)
+role: AI / Backend / Full-Stack Developer
+team: The Tech Visualizers
+```
+
+- 🚀 Building **Wishwa Mitr** — AI-powered multilingual learning platform (SDG Goal 4)
+- 💼 Building **Axentra** — gig / part-time job marketplace
+- 🤖 Working with GenAI, Agentic AI, RAG & Gemini API
+- 📊 Learning ML & Computer Vision (OpenCV, YOLO)
+- 🎬 Graphic Designer & Video Editor (DaVinci, Premiere Pro, After Effects, Canva)
 - 📚 Recognized reader — MIET Central Library
 
 ---
@@ -30,89 +38,77 @@
 ### 🛠️ Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**GenAI / ML / CV**
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-7B2FBE?style=flat&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-512BD4?style=flat&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![JS](https://skillicons.dev/icons?i=js)
+![TS](https://skillicons.dev/icons?i=ts)
 
 **Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-**Creative**
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat&logo=davinci-resolve&logoColor=white)
+**Backend**
 
----
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Nodejs](https://skillicons.dev/icons?i=nodejs)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-### 🚀 Projects
+**AI / ML / CV**
 
-#### 🌍 [Wishwa Mitr](https://github.com/YOUR_USERNAME/wishwa-mitr)
-`Next.js` `FastAPI` `PostgreSQL` `Gemini API` — AI tutor, multilingual, MCQ generation, progress tracking
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://skillicons.dev/icons?i=pandas)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
 
-#### 💼 [Axentra](https://github.com/YOUR_USERNAME/axentra)
-`Next.js` `React` `Supabase` `Framer Motion` — gig/part-time job marketplace
+**Tools & Deployment**
 
-#### 🏏 Cricket Score Prediction
-`Linear Regression` `Pandas` `Matplotlib` — EDA, feature engineering, model evaluation
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
-#### 👁️ Computer Vision / Object Detection
-`OpenCV` `YOLO` — image processing, annotation, tracking, Smart Class Monitoring concept
+**Design**
 
-#### 🧩 RAG / AI Agents
-`LangChain` `Gemini API` `Embeddings` — Student Handbook RAG prototype, agent workflows
-
----
-
-### 📚 Learned
-`Python` `OOP` `SQL` `Pandas/EDA` `ML training & evaluation` `Streamlit` `OpenCV` `YOLO` `Git/GitHub` `Prompt Engineering` `Embeddings` `RAG basics` `LangChain`
-
-### 🌱 Learning
-`Advanced RAG` `Agentic AI` `LangGraph` `Multi-Agent Systems` `Vector DBs` `Production AI systems`
+![Canva](https://skillicons.dev/icons?i=canva)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat-square&logo=davinci-resolve&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 🌱 Currently Learning
+
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-512BD4?style=flat-square&logoColor=white)
+![Advanced RAG](https://img.shields.io/badge/Advanced%20RAG-7B2FBE?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-cc44ff?style=flat-square&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-aa00ff?style=flat-square&logoColor=white)
+
+---
+
+### 🎯 Current Focus
+
+| 🔨 Building | 📖 Learning | 🥅 Goal |
+|:---:|:---:|:---:|
+| Wishwa Mitr — AI Learning Platform | Machine Learning & Computer Vision | Ship SDG Goal 4 aligned AI product |
+| Axentra — Job Marketplace | Agentic AI & LangGraph | Build production-grade AI systems |
+| RAG Prototypes | Vector Databases & Embeddings | Launch innovative tech ideas |
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
-
-### 📫 Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0014&height=100&section=footer" width="100%"/>
 </p>
