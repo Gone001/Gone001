@@ -1,107 +1,91 @@
+<!-- LED TICKER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0014&height=120&text=Gopal&fontSize=42&fontColor=cc44ff&fontAlign=50&fontAlignY=45&desc=AI+and+Full-Stack+Developer&descSize=16&descAlignY=70&descAlign=50&descColor=aa00ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0014&height=60&text=Python+.+Java+.+C+.+Next.js+.+FastAPI+.+Gemini+.+PostgreSQL+.+GenAI+.+DaVinci+.+Canva&fontColor=cc44ff&fontSize=14&fontAlign=50&animation=twinkling&fontAlignY=55&desc=TypeScript+.+Scikit-Learn+.+Pandas+.+OpenCV+.+Docker+.+Vercel+.+Premiere+Pro+.+After+Effects&descSize=13&descAlignY=85&descAlign=50&descColor=aa00ff&stroke=7700cc&strokeWidth=1" width="100%"/>
 </p>
 
-**BCA (Hons), MIET Jammu** — Founding member, The Tech Visualizers
+<h1 align="center">Hey, I'm Gopal 👋</h1>
 
-I build AI-powered products end-to-end — from backend systems and APIs to production-ready interfaces. Currently focused on applied Generative AI, agentic workflows, and full-stack engineering, alongside a background in graphic design and video production.
+<p align="center">
+  <b>BCA (Hons) Student · AI & Full-Stack Developer</b>
+</p>
 
----
-
-## Projects
-
-### 🌍 Wishwa Mitr
-> An AI tutor that speaks your language — built to make quality education accessible to Indian school students.
-
-`Next.js` `FastAPI` `PostgreSQL` `Gemini API`
-
-- 🧠 Gemini-powered tutoring in Hindi & English
-- ⚡ Auto-generates MCQs and topic-wise weak-area analysis
-- 📈 Progress tracking on a FastAPI + PostgreSQL backend
-- 🏆 Built for IEEE YESIST12 iEXPLORE Innovation Challenge (UN SDG Goal 4)
-
-### 💼 Axentra
-> A marketplace that connects students to real part-time work, not just listings.
-
-`Next.js` `React` `Supabase` `Framer Motion`
-
-- 🚀 Full-stack build, live on Vercel
-- ✨ Smooth, animation-driven UX with Framer Motion
-
-### 🏏 Cricket Score Prediction
-> Can a regression model read the game better than a commentator?
-
-`Python` `Scikit-learn` `Pandas` `Matplotlib`
-
-- 📊 Full EDA → feature engineering → model evaluation pipeline
-
-### 👁️ Computer Vision Experiments
-> Teaching machines to see — object detection and tracking from scratch.
-
-`OpenCV` `YOLO`
-
-### 🧩 RAG Prototype
-> A chatbot that actually knows the student handbook, not just guesses.
-
-`LangChain` `Gemini API` `Embeddings`
-
-- 🔍 Retrieval-augmented Q&A over real institutional documents
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E57E0&center=true&vCenter=true&width=500&lines=BCA+Student+at+MIET+Jammu;Next.js+%C2%B7+FastAPI+%C2%B7+Gemini+%C2%B7+PostgreSQL;GenAI+%C2%B7+Agentic+AI+%C2%B7+ML+%C2%B7+CV;Video+Editor+%7C+DaVinci+%7C+Premiere+Pro" alt="Typing SVG" />
+</p>
 
 ---
 
-## Tech Stack
+### 🧠 About Me
+
+- 🔭 Building **Wishwa Mitr** — AI learning platform for Indian school students (UN SDG Goal 4), with **The Tech Visualizers**
+- 🛠️ Building **Axentra** — full-stack job marketplace
+- 🤖 Focused on GenAI, Agentic AI, RAG & Gemini API
+- 🎬 Graphic Designer & Video Editor — DaVinci, Premiere Pro, After Effects, Canva
+
+---
+
+### 🛠️ Tech Stack
 
 **Languages**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts&perline=5" />
 </p>
 
-**Frontend**
+**Frontend & Backend**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,fastapi,nodejs,postgres&perline=8" />
 </p>
 
-**Backend**
+**AI / ML / CV**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres" />
-</p>
-
-**AI / ML / Computer Vision**
-
-<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pandas,opencv&perline=5" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=pandas" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" />
 </p>
 
-**Tools & Deployment**
+**Tools & Design**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" />
-</p>
-
-**Design**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=canva" />
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
-<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat-square&logo=davinci-resolve&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,canva&perline=6" />
 </p>
 
 ---
 
-## Currently Learning
+### 🚀 Featured Projects
 
-Agentic AI systems, LangGraph, multi-agent architectures, vector databases, and production-grade AI system design.
+**🌍 Wishwa Mitr** — AI tutor for Indian students, multilingual, MCQ auto-generation, progress tracking
+`Next.js` `FastAPI` `PostgreSQL` `Gemini API`
+
+**💼 Axentra** — Part-time job marketplace, live on Vercel
+`Next.js` `React` `Supabase`
+
+**🏏 Cricket Score Prediction** — Regression model with full EDA pipeline
+`Python` `Scikit-learn` `Pandas`
 
 ---
 
-## Contact
+### 📊 GitHub Stats
 
-[LinkedIn](#) · [Portfolio](#) · [Email](#)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Build it. Ship it. Improve it."</i>
+</p>
