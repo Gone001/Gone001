@@ -17,7 +17,7 @@
 
 ### 🧠 About Me
 -    I am a 3rd year BCA student from MIET Jammu currently learning about GenAi,Agentic Ai,Statics & Machine learning .
-- 🔭 Building **VishwaMitra** — AI learning platform for Indian school students (UN SDG Goal 4), with **The Tech Visualizers**
+- 🔭 Building **Vishwamitra** — AI learning platform for Indian school students (UN SDG Goal 4), with **The Tech Visualizers**
 - 🛠️ Building **GetQuickJob** — full-stack job marketplace
 - 🤖 Focused on GenAI, Agentic AI, RAG & Automation,Web Dev,Statics & Machine learning 
 - 🎬 Graphic Designer & Video Editor — DaVinci, Premiere Pro, After Effects, Canva
